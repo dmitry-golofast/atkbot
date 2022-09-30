@@ -1,4 +1,5 @@
-##Бот с погодой и рассылкой, подключенных пользователей 
+## Бот с погодой и рассылкой для подключенных пользователей
+
 *npm init -y*
 
 *npm install axios node-telegram-bot-api pg pg-hstore sequelize*
